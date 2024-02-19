@@ -47,7 +47,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "../images/nonvegthali.jpg",
+      image: "images/nonvegthali.jpg",
       name: "Non-Veg Thali",
       category: "dinner",
       price: "180₹",
