@@ -65,7 +65,7 @@ const Menu = [
     },
     {
       id: 8,
-      image: "../images/rajmarice.jpg",
+      image: "images/rajmarice.jpg",
       name: "Rajma Rice",
       category: "lunch",
       price: "60₹",
